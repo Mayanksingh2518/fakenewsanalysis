@@ -51,4 +51,6 @@ Feel free to contribute, report issues, or suggest improvements!
 
 ---
 
-Note: Ensure you have a `requirements.txt` file with the necessary dependencies for your project. You may need to tailor the description further based on specific details or features of your project.
+# Made and designed by- Mayank Singh
+# LinkedIn- https://www.linkedin.com/in/mayank-kumar-singh-a203141b9/
+# Contact Info- mayanksingh9451@gmail.com / +919170898012
